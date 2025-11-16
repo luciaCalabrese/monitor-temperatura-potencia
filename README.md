@@ -16,14 +16,10 @@ Panel web desarrollado en **Svelte** con **Chart.js** y **YAML**, diseñado para
 
 ---
 
-## 🖼️ Capturas de pantalla
-
-![Pantalla principal](images/captura1.png)
-![Gráficas en acción](images/captura2.png)
 
 🎬 **GIF animado mostrando actualización en tiempo real:**
 
-![Actualización en tiempo real](images/demo.gif)
+
 
 > Puedes reemplazar las imágenes por tus propias capturas en la carpeta `/images`.
 
